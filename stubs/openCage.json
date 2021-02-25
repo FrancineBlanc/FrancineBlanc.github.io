@@ -1,0 +1,142 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2457,
+        "reset": 1614297600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51° 57' 9.57564'' N",
+                    "lng": "7° 37' 56.90280'' E"
+                },
+                "MGRS": "32UMC0602156656",
+                "Maidenhead": "JO31tw58vp",
+                "Mercator": {
+                    "x": 849643.007,
+                    "y": 6757899.137
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=125838041#map=16/51.95266/7.63247",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/51.95266/7.63247&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.95266&mlon=7.63247#map=16/51.95266/7.63247"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "DE": "276",
+                        "EUROPE": "150",
+                        "WESTERN_EUROPE": "155",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 49,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ",",
+                    "html_entity": "&#x20AC;",
+                    "iso_code": "EUR",
+                    "iso_numeric": "978",
+                    "name": "Euro",
+                    "smallest_denomination": 1,
+                    "subunit": "Cent",
+                    "subunit_to_unit": 100,
+                    "symbol": "€",
+                    "symbol_first": 0,
+                    "thousands_separator": "."
+                },
+                "flag": "🇩🇪",
+                "geohash": "u1jrt9ty1t8rg3r5wttm",
+                "qibla": 128.55,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "road": "Friedrich-Ebert-Straße",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1614234240,
+                        "astronomical": 1614227580,
+                        "civil": 1614232260,
+                        "nautical": 1614229920
+                    },
+                    "set": {
+                        "apparent": 1614272460,
+                        "astronomical": 1614279180,
+                        "civil": 1614274500,
+                        "nautical": 1614276840
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Berlin",
+                    "now_in_dst": 0,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "CET"
+                },
+                "what3words": {
+                    "words": "episodes.mass.below"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.9528202,
+                    "lng": 7.6325938
+                },
+                "southwest": {
+                    "lat": 51.9525445,
+                    "lng": 7.6323594
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "DE",
+                "ISO_3166-1_alpha-3": "DEU",
+                "_category": "building",
+                "_type": "building",
+                "city": "Münster",
+                "city_district": "Münster-Mitte",
+                "continent": "Europe",
+                "country": "Germany",
+                "country_code": "de",
+                "house_number": "7",
+                "neighbourhood": "Josef",
+                "political_union": "European Union",
+                "postcode": "48153",
+                "road": "Friedrich-Ebert-Straße",
+                "state": "North Rhine-Westphalia",
+                "state_code": "NW",
+                "suburb": "Innenstadtring"
+            },
+            "confidence": 10,
+            "formatted": "Friedrich-Ebert-Straße 7, 48153 Münster, Germany",
+            "geometry": {
+                "lat": 51.9526599,
+                "lng": 7.632473
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "twitter": "https://twitter.com/OpenCage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Thu, 25 Feb 2021 22:48:27 GMT",
+        "created_unix": 1614293307
+    },
+    "total_results": 1
+}
