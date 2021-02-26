@@ -1,0 +1,24 @@
+{
+    "geonames": [
+        {
+            "continent": "EU",
+            "capital": "Paris",
+            "languages": "fr-FR,frp,br,co,ca,eu,oc",
+            "geonameId": 3017382,
+            "south": 41.3645589826522,
+            "isoAlpha3": "FRA",
+            "north": 51.0889894407743,
+            "fipsCode": "FR",
+            "population": "66987244",
+            "east": 9.56009360694225,
+            "isoNumeric": "250",
+            "areaInSqKm": "547030.0",
+            "countryCode": "FR",
+            "west": -5.14127657354623,
+            "countryName": "France",
+            "postalCodeFormat": "#####",
+            "continentName": "Europe",
+            "currencyCode": "EUR"
+        }
+    ]
+}
