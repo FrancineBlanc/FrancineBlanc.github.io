@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "holidays": [
+            {
+                "name": "New Year's Day",
+                "description": "New Year's Day marks the start of a new year in the Gregorian calendar, the official calendar used in the United Kingdom.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-01-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 1,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Good Friday",
+                "description": "Good Friday is just before Easter Sunday and is a public holiday in the United Kingdom.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-04-02",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 2
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Early May Bank Holiday",
+                "description": "May Day, or the Early May Bank holiday, is on the first Monday of May each year.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-05-03",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 3
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Spring Bank Holiday",
+                "description": "The spring bank holiday in the United Kingdom is on the last Monday of May each year.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-05-31",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 31
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Christmas Day",
+                "description": "Christmas Day is a holiday that traditionally celebrates Jesus Christ's birth. It is on December 25 in the United Kingdom.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-12-25",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Boxing Day",
+                "description": "Boxing Day is a holiday in the United Kingdom that falls on December 26 each year.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-12-26",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 26
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Substitute Bank Holiday for Christmas Day",
+                "description": "December 27 is a bank holiday in the United Kingdom only in some years, depending on which day Christmas Day or Boxing Day occur.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-12-27",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 27
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Substitute Bank Holiday for Boxing Day",
+                "description": "December 28 is a bank holiday in the United Kingdom only in some years, depending on which day Christmas Day or Boxing Day occur.",
+                "country": {
+                    "id": "gb",
+                    "name": "United Kingdom"
+                },
+                "date": {
+                    "iso": "2021-12-28",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 28
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            }
+        ]
+    }
+}

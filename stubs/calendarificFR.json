@@ -1,0 +1,240 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "holidays": [
+            {
+                "name": "New Year's Day",
+                "description": "New Year's Day is the first day of the year in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-01-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 1,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Easter Monday",
+                "description": "Easter Monday is the day after Easter Sunday.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-04-05",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 5
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Labor Day / May Day",
+                "description": "People in France give loved ones flowers and may celebrate or campaign for workers' rights on May Day, also known as Labor Day.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-05-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "WWII Victory Day",
+                "description": "WWII Victory Day marks the anniversary of the official end of World War II and is a public holiday in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-05-08",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 8
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Ascension Day",
+                "description": "Ascension Day marks the day that Jesus ascended to heaven, according to Christian belief.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-05-13",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 13
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Whit Monday",
+                "description": "Pentecost Monday is the day after Pentecost Sunday. It is a public holiday in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-05-24",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 24
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Bastille Day",
+                "description": "Bastille Day is an occasion to honor the French Republic. It is a public holiday in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-07-14",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 7,
+                        "day": 14
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Assumption of Mary",
+                "description": "The Feast of the Assumption of Mary is an occasion for Catholics to honor the belief that God assumed the Virgin Mary to heaven.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-08-15",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 8,
+                        "day": 15
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "All Saints' Day",
+                "description": "All Saints' Day celebrates all Christian saints, particularly those who have no special feast days of their own. It is a public holiday in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-11-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 11,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Armistice Day",
+                "description": "Armistice Day marks the anniversary of the end of World War I. It is a public holiday in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-11-11",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 11,
+                        "day": 11
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Christmas Day",
+                "description": "Christmas Day is an occasion for Christians to celebrate Jesus Christ's birth. It is public holiday in France.",
+                "country": {
+                    "id": "fr",
+                    "name": "France"
+                },
+                "date": {
+                    "iso": "2021-12-25",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            }
+        ]
+    }
+}

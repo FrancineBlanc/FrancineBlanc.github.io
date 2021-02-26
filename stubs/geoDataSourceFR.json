@@ -1,0 +1,34 @@
+[
+    {
+        "country_code": "AD",
+        "country_name": "Andorra"
+    },
+    {
+        "country_code": "BE",
+        "country_name": "Belgium"
+    },
+    {
+        "country_code": "CH",
+        "country_name": "Switzerland"
+    },
+    {
+        "country_code": "DE",
+        "country_name": "Germany"
+    },
+    {
+        "country_code": "ES",
+        "country_name": "Spain"
+    },
+    {
+        "country_code": "IT",
+        "country_name": "Italy"
+    },
+    {
+        "country_code": "LU",
+        "country_name": "Luxembourg"
+    },
+    {
+        "country_code": "MC",
+        "country_name": "Monaco"
+    }
+]

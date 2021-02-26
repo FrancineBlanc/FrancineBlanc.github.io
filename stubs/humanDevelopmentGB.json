@@ -1,0 +1,39 @@
+{
+    "indicator_value": {
+        "GBR": {
+            "69706": {
+                "2019": 17.498
+            },
+            "103006": {
+                "2019": 13.243
+            },
+            "120606": {
+                "2019": 82.999
+            },
+            "121106": {
+                "2019": 79.613
+            },
+            "146206": {
+                "2019": 13
+            },
+            "194506": {
+                "2019": 3121.12
+            },
+            "195706": {
+                "2019": 46070.645
+            }
+        }
+    },
+    "country_name": {
+        "GBR": "United Kingdom"
+    },
+    "indicator_name": {
+        "69706": "Expected years of schooling (years)",
+        "103006": "Mean years of schooling (years)",
+        "120606": "Life expectancy at birth, female (years)",
+        "121106": "Life expectancy at birth, male (years)",
+        "146206": "HDI rank",
+        "194506": "Gross domestic product (GDP), total (2017 PPP $ billions)",
+        "195706": "Gross national income (GNI) per capita (constant 2017 PPP$)"
+    }
+}
