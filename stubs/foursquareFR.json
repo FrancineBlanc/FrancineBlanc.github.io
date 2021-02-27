@@ -1,0 +1,3102 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "603a9604fe56103e306d00b5"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4adcda09f964a520ed3321e3",
+                "name": "Palais Royal",
+                "contact": {},
+                "location": {
+                    "address": "Place du Palais Royal",
+                    "lat": 48.86323576771446,
+                    "lng": 2.3371267318725586,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86323576771446,
+                            "lng": 2.3371267318725586
+                        }
+                    ],
+                    "distance": 885,
+                    "postalCode": "75001",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place du Palais Royal",
+                        "75001 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4deefb944765f83613cdba6e",
+                        "name": "Historic Site",
+                        "pluralName": "Historic Sites",
+                        "shortName": "Historic Site",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4bccc4e7937ca59381baab92",
+                "name": "Basilique du Sacré-Cœur",
+                "contact": {},
+                "location": {
+                    "address": "35 rue du Chevalier de la Barre",
+                    "lat": 48.886603420322,
+                    "lng": 2.3430490493774414,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.886603420322,
+                            "lng": 2.3430490493774414
+                        }
+                    ],
+                    "distance": 2475,
+                    "postalCode": "75018",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "35 rue du Chevalier de la Barre",
+                        "75018 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d132941735",
+                        "name": "Church",
+                        "pluralName": "Churches",
+                        "shortName": "Church",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520de3321e3",
+                "name": "Arc de Triomphe (Arc de Triomphe de l'Étoile)",
+                "contact": {},
+                "location": {
+                    "address": "Place Charles de Gaulle",
+                    "crossStreet": "Avenue des Champs-Élysées",
+                    "lat": 48.873783275868725,
+                    "lng": 2.2950589656829834,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.873783275868725,
+                            "lng": 2.2950589656829834
+                        }
+                    ],
+                    "distance": 4077,
+                    "postalCode": "75008",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place Charles de Gaulle (Avenue des Champs-Élysées)",
+                        "75008 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a5200f3421e3",
+                "name": "Bois de Vincennes",
+                "contact": {},
+                "location": {
+                    "address": "Bois de Vincennes",
+                    "lat": 48.832521374403704,
+                    "lng": 2.4350196381658353,
+                    "distance": 7248,
+                    "postalCode": "75012",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Bois de Vincennes",
+                        "75012 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a23",
+                        "name": "Forest",
+                        "pluralName": "Forests",
+                        "shortName": "Forest",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 1,
+                    "summary": "One other person is here",
+                    "groups": [
+                        {
+                            "type": "others",
+                            "name": "Other people here",
+                            "count": 1,
+                            "items": []
+                        }
+                    ]
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "51a2445e5019c80b56934c75",
+                "name": "Tour Eiffel",
+                "contact": {},
+                "location": {
+                    "address": "5 avenue Anatole France",
+                    "lat": 48.85825817805569,
+                    "lng": 2.294423282146454,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85825817805569,
+                            "lng": 2.294423282146454
+                        }
+                    ],
+                    "distance": 4062,
+                    "postalCode": "75007",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "5 avenue Anatole France",
+                        "75007 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520093421e3",
+                "name": "Bois de Boulogne",
+                "contact": {},
+                "location": {
+                    "address": "Allée de la Reine Marguerite",
+                    "lat": 48.86463006754417,
+                    "lng": 2.2480130195617676,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86463006754417,
+                            "lng": 2.2480130195617676
+                        }
+                    ],
+                    "distance": 7396,
+                    "postalCode": "75016",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Allée de la Reine Marguerite",
+                        "75016 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a23",
+                        "name": "Forest",
+                        "pluralName": "Forests",
+                        "shortName": "Forest",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520e83321e3",
+                "name": "Cathédrale Notre-Dame de Paris",
+                "contact": {},
+                "location": {
+                    "address": "6 parvis Notre-Dame",
+                    "crossStreet": "Place Jean-Paul II",
+                    "lat": 48.85312443201169,
+                    "lng": 2.3495614528656006,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85312443201169,
+                            "lng": 2.3495614528656006
+                        }
+                    ],
+                    "distance": 1290,
+                    "postalCode": "75004",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "6 parvis Notre-Dame (Place Jean-Paul II)",
+                        "75004 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d132941735",
+                        "name": "Church",
+                        "pluralName": "Churches",
+                        "shortName": "Church",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4d9ebe19fca1b60c0e87af50",
+                "name": "Mairie de Tremblay-en-France",
+                "contact": {},
+                "location": {
+                    "address": "18 Boulevard de l'Hôtel de ville",
+                    "lat": 48.95118059953474,
+                    "lng": 2.570646119939082,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.95118059953474,
+                            "lng": 2.570646119939082
+                        }
+                    ],
+                    "distance": 18857,
+                    "postalCode": "93290",
+                    "cc": "FR",
+                    "city": "Tremblay-en-France",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "18 Boulevard de l'Hôtel de ville",
+                        "93290 Tremblay-en-France",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "529334fe498ef0a9791211e8",
+                "name": "Mairie de Villeneuve-Saint-Georges",
+                "contact": {},
+                "location": {
+                    "address": "20 Place Pierre Semard",
+                    "lat": 48.73031921069344,
+                    "lng": 2.453829378467038,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.73031921069344,
+                            "lng": 2.453829378467038
+                        }
+                    ],
+                    "distance": 16819,
+                    "postalCode": "94190",
+                    "cc": "FR",
+                    "city": "Villeneuve-Saint-Georges",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "20 Place Pierre Semard",
+                        "94190 Villeneuve-Saint-Georges",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f92dda1e4b0eba951615064",
+                "name": "Domaine Cherioux",
+                "contact": {},
+                "location": {
+                    "address": "4 Route De Fontainebleau",
+                    "lat": 48.77867576669478,
+                    "lng": 2.3693637768985756,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.77867576669478,
+                            "lng": 2.3693637768985756
+                        }
+                    ],
+                    "distance": 9693,
+                    "cc": "FR",
+                    "city": "Vitry-sur-Seine",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "4 Route De Fontainebleau",
+                        "Vitry-sur-Seine",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4d9c49b1954e8cfa61fec892",
+                "name": "Château d'eau de Belleville",
+                "contact": {},
+                "location": {
+                    "address": "36 Rue du Télégraphe",
+                    "lat": 48.87381855870567,
+                    "lng": 2.39951491355896,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.87381855870567,
+                            "lng": 2.39951491355896
+                        }
+                    ],
+                    "distance": 3834,
+                    "postalCode": "75020",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "36 Rue du Télégraphe",
+                        "75020 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4d989446e07ea35d6af1f402",
+                "name": "Parcours sportif Patte d'Oie",
+                "contact": {},
+                "location": {
+                    "address": "Route de la Demi-lune",
+                    "lat": 48.82221500704948,
+                    "lng": 2.440757977427213,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.82221500704948,
+                            "lng": 2.440757977427213
+                        }
+                    ],
+                    "distance": 8219,
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Route de la Demi-lune",
+                        "Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f4931735",
+                        "name": "Racetrack",
+                        "pluralName": "Racetracks",
+                        "shortName": "Racetrack",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/racetrack_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "51f404c1498ea9952b51538e",
+                "name": "Lac de Polytechnique",
+                "contact": {},
+                "location": {
+                    "address": "Campus de l'École Polytechnique",
+                    "lat": 48.71572825632207,
+                    "lng": 2.2105050086975098,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.71572825632207,
+                            "lng": 2.2105050086975098
+                        }
+                    ],
+                    "distance": 19448,
+                    "cc": "FR",
+                    "city": "Palaiseau",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Campus de l'École Polytechnique",
+                        "Palaiseau",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d161941735",
+                        "name": "Lake",
+                        "pluralName": "Lakes",
+                        "shortName": "Lake",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520e53321e3",
+                "name": "Hôtel de Ville de Paris (Hôtel de ville de Paris)",
+                "contact": {},
+                "location": {
+                    "address": "4 place de l'Hôtel de Ville",
+                    "crossStreet": "Esplanade de la Libération",
+                    "lat": 48.85647757431556,
+                    "lng": 2.352372407913208,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85647757431556,
+                            "lng": 2.352372407913208
+                        }
+                    ],
+                    "distance": 949,
+                    "postalCode": "75004",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "4 place de l'Hôtel de Ville (Esplanade de la Libération)",
+                        "75004 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "53bc28f8498ea569d313b874",
+                "name": "Pole Spirit Paris by Claire Francisci",
+                "contact": {},
+                "location": {
+                    "address": "38 rue Lauriston",
+                    "lat": 48.870508,
+                    "lng": 2.291154,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.870508,
+                            "lng": 2.291154
+                        }
+                    ],
+                    "distance": 4285,
+                    "cc": "FR",
+                    "neighborhood": "Chaillot",
+                    "city": "75116 Paris",
+                    "country": "France",
+                    "formattedAddress": [
+                        "38 rue Lauriston",
+                        "75116 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d175941735",
+                        "name": "Gym / Fitness Center",
+                        "pluralName": "Gyms or Fitness Centers",
+                        "shortName": "Gym / Fitness",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4f2ae574e4b0b052a46bab94",
+                "name": "Maison des associations de Montreuil",
+                "contact": {},
+                "location": {
+                    "address": "60 avenue Franklin",
+                    "lat": 48.863478,
+                    "lng": 2.444254,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.863478,
+                            "lng": 2.444254
+                        }
+                    ],
+                    "distance": 6975,
+                    "postalCode": "93100",
+                    "cc": "FR",
+                    "city": "Montreuil",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "60 avenue Franklin",
+                        "93100 Montreuil",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4e512087b61cf637a50bf8aa",
+                "name": "Forêt Domaniale de Fausses Reposes",
+                "contact": {},
+                "location": {
+                    "lat": 48.82103586223226,
+                    "lng": 2.1677613258361816,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.82103586223226,
+                            "lng": 2.1677613258361816
+                        }
+                    ],
+                    "distance": 14141,
+                    "postalCode": "78000",
+                    "cc": "FR",
+                    "city": "Ville-d'Avray",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "78000 Ville-d'Avray",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a23",
+                        "name": "Forest",
+                        "pluralName": "Forests",
+                        "shortName": "Forest",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520e73321e3",
+                "name": "Cimetière du Père Lachaise",
+                "contact": {},
+                "location": {
+                    "address": "16 rue du Repos",
+                    "crossStreet": "Boulevard de Ménilmontant",
+                    "lat": 48.86160921192831,
+                    "lng": 2.3938822746276855,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86160921192831,
+                            "lng": 2.3938822746276855
+                        }
+                    ],
+                    "distance": 3303,
+                    "postalCode": "75020",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "16 rue du Repos (Boulevard de Ménilmontant)",
+                        "75020 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d15c941735",
+                        "name": "Cemetery",
+                        "pluralName": "Cemeteries",
+                        "shortName": "Cemetery",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/cemetery_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520ea3321e3",
+                "name": "Panthéon",
+                "contact": {},
+                "location": {
+                    "address": "Place du Panthéon",
+                    "lat": 48.846229,
+                    "lng": 2.346084,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.846229,
+                            "lng": 2.346084
+                        }
+                    ],
+                    "distance": 2069,
+                    "postalCode": "75005",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place du Panthéon",
+                        "75005 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda10f964a520af3521e3",
+                "name": "Musée du Louvre",
+                "contact": {},
+                "location": {
+                    "address": "Rue de Rivoli",
+                    "crossStreet": "Place du Carrousel",
+                    "lat": 48.86084691113991,
+                    "lng": 2.336440086364746,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86084691113991,
+                            "lng": 2.336440086364746
+                        }
+                    ],
+                    "distance": 1016,
+                    "postalCode": "75001",
+                    "cc": "FR",
+                    "neighborhood": "Le Louvre",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Rue de Rivoli (Place du Carrousel)",
+                        "75001 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d18f941735",
+                        "name": "Art Museum",
+                        "pluralName": "Art Museums",
+                        "shortName": "Art Museum",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda10f964a5208b3521e3",
+                "name": "Musée d'Orsay",
+                "contact": {},
+                "location": {
+                    "address": "1 rue de la Légion d'Honneur",
+                    "crossStreet": "Quai Anatole France",
+                    "lat": 48.85999283813253,
+                    "lng": 2.3263871669769287,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85999283813253,
+                            "lng": 2.3263871669769287
+                        }
+                    ],
+                    "distance": 1738,
+                    "postalCode": "75007",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "1 rue de la Légion d'Honneur (Quai Anatole France)",
+                        "75007 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d18f941735",
+                        "name": "Art Museum",
+                        "pluralName": "Art Museums",
+                        "shortName": "Art Museum",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "6031101ec5e33466fb120fff",
+                "name": "Galerie Maitre Albert",
+                "contact": {},
+                "location": {
+                    "lat": 48.85091,
+                    "lng": 2.3498898,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85091,
+                            "lng": 2.3498898
+                        }
+                    ],
+                    "distance": 1538,
+                    "postalCode": "75005",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "75005 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e2931735",
+                        "name": "Art Gallery",
+                        "pluralName": "Art Galleries",
+                        "shortName": "Art Gallery",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "5bf1a585f2554e00394519d7",
+                "name": "Tribunal de Grande Instance de Paris",
+                "contact": {},
+                "location": {
+                    "lat": 48.895348,
+                    "lng": 2.310092,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.895348,
+                            "lng": 2.310092
+                        }
+                    ],
+                    "distance": 4443,
+                    "postalCode": "75017",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "75017 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12b941735",
+                        "name": "Courthouse",
+                        "pluralName": "Courthouses",
+                        "shortName": "Courthouse",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_courthouse_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4ed9f7dbb8f7fcd03fbc30b3",
+                "name": "Mairie de Montmagny",
+                "contact": {},
+                "location": {
+                    "lat": 48.97650097126103,
+                    "lng": 2.339565837977867,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.97650097126103,
+                            "lng": 2.339565837977867
+                        }
+                    ],
+                    "distance": 12462,
+                    "postalCode": "95360",
+                    "cc": "FR",
+                    "state": "Montmagny",
+                    "country": "France",
+                    "formattedAddress": [
+                        "95360",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "51c6e469498e83844c1557b5",
+                "name": "Gymmase De La Varenne",
+                "contact": {},
+                "location": {
+                    "lat": 48.845628147130675,
+                    "lng": 2.5345802886563535,
+                    "distance": 13756,
+                    "cc": "FR",
+                    "country": "France",
+                    "formattedAddress": [
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d18b941735",
+                        "name": "Basketball Stadium",
+                        "pluralName": "Basketball Stadiums",
+                        "shortName": "Basketball",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_basketball_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b474228f964a520bf2d26e3",
+                "name": "UGC Ciné Cité La Défense",
+                "contact": {},
+                "location": {
+                    "address": "C.C Les 4 Temps",
+                    "crossStreet": "Niveau 4",
+                    "lat": 48.89113127891446,
+                    "lng": 2.2355084922459287,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.89113127891446,
+                            "lng": 2.2355084922459287
+                        }
+                    ],
+                    "distance": 8814,
+                    "postalCode": "92800",
+                    "cc": "FR",
+                    "city": "Puteaux",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "C.C Les 4 Temps (Niveau 4)",
+                        "92800 Puteaux",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d180941735",
+                        "name": "Multiplex",
+                        "pluralName": "Multiplexes",
+                        "shortName": "Cineplex",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4c28e218fe6e2d7fa4f4533c",
+                "name": "Freiheitsstatue (Statue de la Liberté)",
+                "contact": {},
+                "location": {
+                    "address": "Île aux Cygnes",
+                    "crossStreet": "Pont de Grenelle",
+                    "lat": 48.850035,
+                    "lng": 2.279684,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.850035,
+                            "lng": 2.279684
+                        }
+                    ],
+                    "distance": 5334,
+                    "postalCode": "75015",
+                    "cc": "FR",
+                    "neighborhood": "Javel",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Île aux Cygnes (Pont de Grenelle)",
+                        "75015 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b79ed",
+                        "name": "Outdoor Sculpture",
+                        "pluralName": "Outdoor Sculptures",
+                        "shortName": "Outdoor Sculpture",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4c25f508a852c9281ab1e56c",
+                "name": "Grand Palais",
+                "contact": {},
+                "location": {
+                    "address": "3 avenue du Général Eisenhower",
+                    "crossStreet": "Avenue Winston Churchill",
+                    "lat": 48.86611219637595,
+                    "lng": 2.3126220703125,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86611219637595,
+                            "lng": 2.3126220703125
+                        }
+                    ],
+                    "distance": 2669,
+                    "postalCode": "75008",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "3 avenue du Général Eisenhower (Avenue Winston Churchill)",
+                        "75008 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4deefb944765f83613cdba6e",
+                        "name": "Historic Site",
+                        "pluralName": "Historic Sites",
+                        "shortName": "Historic Site",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a520f63321e3",
+                "name": "Pont Alexandre III",
+                "contact": {},
+                "location": {
+                    "address": "Pont Alexandre III",
+                    "lat": 48.863726653200374,
+                    "lng": 2.3135340213775635,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.863726653200374,
+                            "lng": 2.3135340213775635
+                        }
+                    ],
+                    "distance": 2600,
+                    "postalCode": "75007",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Pont Alexandre III",
+                        "75007 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1df941735",
+                        "name": "Bridge",
+                        "pluralName": "Bridges",
+                        "shortName": "Bridge",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b8aabb2f964a520d57832e3",
+                "name": "Le Méliès",
+                "contact": {},
+                "location": {
+                    "address": "Place Jean Jaurès",
+                    "lat": 48.86550343489185,
+                    "lng": 2.445704690719802,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86550343489185,
+                            "lng": 2.445704690719802
+                        }
+                    ],
+                    "distance": 7081,
+                    "postalCode": "93100",
+                    "cc": "FR",
+                    "city": "Montreuil",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place Jean Jaurès",
+                        "93100 Montreuil",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d17e941735",
+                        "name": "Indie Movie Theater",
+                        "pluralName": "Indie Movie Theaters",
+                        "shortName": "Indie Movies",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4ccacdc79b934688bdcf5041",
+                "name": "Mairie de Montreuil",
+                "contact": {},
+                "location": {
+                    "address": "Place Jean Jaurès",
+                    "lat": 48.865508857882155,
+                    "lng": 2.445747979409955,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.865508857882155,
+                            "lng": 2.445747979409955
+                        }
+                    ],
+                    "distance": 7084,
+                    "postalCode": "93100",
+                    "cc": "FR",
+                    "city": "Montreuil",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place Jean Jaurès",
+                        "93100 Montreuil",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4c6d415de6b7b1f7e020a98e",
+                "name": "Obélisque de Louxor",
+                "contact": {},
+                "location": {
+                    "address": "Place de la Concorde",
+                    "lat": 48.865477003680226,
+                    "lng": 2.3211193084716797,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.865477003680226,
+                            "lng": 2.3211193084716797
+                        }
+                    ],
+                    "distance": 2044,
+                    "postalCode": "75008",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place de la Concorde",
+                        "75008 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b2a43eef964a520a9a624e3",
+                "name": "Ministère de l'Économie et des Finances",
+                "contact": {},
+                "location": {
+                    "address": "139 rue de Bercy",
+                    "lat": 48.8396222657823,
+                    "lng": 2.3758919611085516,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.8396222657823,
+                            "lng": 2.3758919611085516
+                        }
+                    ],
+                    "distance": 3417,
+                    "postalCode": "75012",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "139 rue de Bercy",
+                        "75012 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b2b5fc5f964a52000b624e3",
+                "name": "Grande Arche de la Défense",
+                "contact": {},
+                "location": {
+                    "address": "Parvis de la Défense",
+                    "lat": 48.892565,
+                    "lng": 2.235882,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.892565,
+                            "lng": 2.235882
+                        }
+                    ],
+                    "distance": 8843,
+                    "postalCode": "92800",
+                    "cc": "FR",
+                    "neighborhood": "Défense",
+                    "city": "Puteaux",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Parvis de la Défense",
+                        "92800 Puteaux",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument / Landmark",
+                        "pluralName": "Monuments / Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4bcae3ec937ca593289aa892",
+                "name": "Pont de Bir-Hakeim",
+                "contact": {},
+                "location": {
+                    "address": "Pont de Bir-Hakeim",
+                    "crossStreet": "Quai Branly",
+                    "lat": 48.85576456429984,
+                    "lng": 2.2878676563877764,
+                    "distance": 4587,
+                    "postalCode": "75016",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Pont de Bir-Hakeim (Quai Branly)",
+                        "75016 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1df941735",
+                        "name": "Bridge",
+                        "pluralName": "Bridges",
+                        "shortName": "Bridge",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "584ab8e2c7ec6b17ddaef410",
+                "name": "La Seine Musicale",
+                "contact": {},
+                "location": {
+                    "address": "65 Pont Renault",
+                    "crossStreet": "Île Seguin",
+                    "lat": 48.82560052052614,
+                    "lng": 2.230701933339832,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.82560052052614,
+                            "lng": 2.230701933339832
+                        }
+                    ],
+                    "distance": 9699,
+                    "postalCode": "92100",
+                    "cc": "FR",
+                    "neighborhood": "Billancourt - Rives de Seine",
+                    "city": "Boulogne-Billancourt",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "65 Pont Renault (Île Seguin)",
+                        "92100 Boulogne-Billancourt",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e5931735",
+                        "name": "Music Venue",
+                        "pluralName": "Music Venues",
+                        "shortName": "Music Venue",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "5055d104183f97c38ba293f8",
+                "name": "Île de Reuilly",
+                "contact": {},
+                "location": {
+                    "address": "Route des Îles",
+                    "crossStreet": "Bois de Vincennes",
+                    "lat": 48.83028885710609,
+                    "lng": 2.4146318435668945,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.83028885710609,
+                            "lng": 2.4146318435668945
+                        }
+                    ],
+                    "distance": 6147,
+                    "postalCode": "75012",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Route des Îles (Bois de Vincennes)",
+                        "75012 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d161941735",
+                        "name": "Lake",
+                        "pluralName": "Lakes",
+                        "shortName": "Lake",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4bd0114577b29c7466218a82",
+                "name": "Lac Daumesnil",
+                "contact": {},
+                "location": {
+                    "address": "Bois de Vincennes",
+                    "lat": 48.830892573164384,
+                    "lng": 2.414946843346115,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.830892573164384,
+                            "lng": 2.414946843346115
+                        }
+                    ],
+                    "distance": 6124,
+                    "postalCode": "75012",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Bois de Vincennes",
+                        "75012 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d161941735",
+                        "name": "Lake",
+                        "pluralName": "Lakes",
+                        "shortName": "Lake",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4bc1d0f3461576b06e597c32",
+                "name": "Parc de Saint-Cloud (Domaine National de Saint-Cloud)",
+                "contact": {},
+                "location": {
+                    "address": "Parc de Saint-Cloud",
+                    "lat": 48.83432856023283,
+                    "lng": 2.1965789794921875,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.83432856023283,
+                            "lng": 2.1965789794921875
+                        }
+                    ],
+                    "distance": 11667,
+                    "postalCode": "92210",
+                    "cc": "FR",
+                    "city": "Saint-Cloud",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Parc de Saint-Cloud",
+                        "92210 Saint-Cloud",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d163941735",
+                        "name": "Park",
+                        "pluralName": "Parks",
+                        "shortName": "Park",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 1,
+                    "summary": "One other person is here",
+                    "groups": [
+                        {
+                            "type": "others",
+                            "name": "Other people here",
+                            "count": 1,
+                            "items": []
+                        }
+                    ]
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4c2f103c66e40f476345c18b",
+                "name": "École Militaire",
+                "contact": {},
+                "location": {
+                    "address": "Avenue de la Motte-Picquet",
+                    "lat": 48.85255307185194,
+                    "lng": 2.3033898767607752,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85255307185194,
+                            "lng": 2.3033898767607752
+                        }
+                    ],
+                    "distance": 3605,
+                    "postalCode": "75007",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Avenue de la Motte-Picquet",
+                        "75007 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4deefb944765f83613cdba6e",
+                        "name": "Historic Site",
+                        "pluralName": "Historic Sites",
+                        "shortName": "Historic Site",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4c4174ab520fa59397aec9ac",
+                "name": "Lac Supérieur",
+                "contact": {},
+                "location": {
+                    "address": "Bois de Boulogne",
+                    "lat": 48.85808938799764,
+                    "lng": 2.2566410522074487,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.85808938799764,
+                            "lng": 2.2566410522074487
+                        }
+                    ],
+                    "distance": 6805,
+                    "postalCode": "75016",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Bois de Boulogne",
+                        "75016 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d161941735",
+                        "name": "Lake",
+                        "pluralName": "Lakes",
+                        "shortName": "Lake",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b2f39a4f964a5204eea24e3",
+                "name": "Maison de la Radio",
+                "contact": {},
+                "location": {
+                    "address": "116 avenue du Président Kennedy",
+                    "lat": 48.852261560083534,
+                    "lng": 2.277905569689212,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.852261560083534,
+                            "lng": 2.277905569689212
+                        }
+                    ],
+                    "distance": 5389,
+                    "postalCode": "75016",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "116 avenue du Président Kennedy",
+                        "75016 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "5032856091d4c4b30a586d63",
+                        "name": "Radio Station",
+                        "pluralName": "Radio Stations",
+                        "shortName": "Radio Station",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "venuePage": {
+                    "id": "75555921"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "57d50e62cd10e323f1788d38",
+                "name": "Futur Palais de Justice de Paris",
+                "contact": {},
+                "location": {
+                    "lat": 48.89504725671365,
+                    "lng": 2.3102563619613647,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.89504725671365,
+                            "lng": 2.3102563619613647
+                        }
+                    ],
+                    "distance": 4410,
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12b941735",
+                        "name": "Courthouse",
+                        "pluralName": "Courthouses",
+                        "shortName": "Courthouse",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_courthouse_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4dd3a33e1f6e5374d6dd980b",
+                "name": "Forêt de Meudon",
+                "contact": {},
+                "location": {
+                    "address": "Forêt de Meudon",
+                    "lat": 48.7984560063473,
+                    "lng": 2.218053391709744,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.7984560063473,
+                            "lng": 2.218053391709744
+                        }
+                    ],
+                    "distance": 12103,
+                    "postalCode": "92190",
+                    "cc": "FR",
+                    "city": "Meudon",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Forêt de Meudon",
+                        "92190 Meudon",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a23",
+                        "name": "Forest",
+                        "pluralName": "Forests",
+                        "shortName": "Forest",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b524359f964a520907327e3",
+                "name": "Lac des Minimes",
+                "contact": {},
+                "location": {
+                    "address": "Route Ronde des Minimes",
+                    "lat": 48.83362917318947,
+                    "lng": 2.4595092211586476,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.83362917318947,
+                            "lng": 2.4595092211586476
+                        }
+                    ],
+                    "distance": 8802,
+                    "postalCode": "75012",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Route Ronde des Minimes",
+                        "75012 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d161941735",
+                        "name": "Lake",
+                        "pluralName": "Lakes",
+                        "shortName": "Lake",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4d2c4008467d6ea865cbe695",
+                "name": "Château de Sceaux",
+                "contact": {},
+                "location": {
+                    "address": "Domaine de Sceaux",
+                    "lat": 48.774482558501184,
+                    "lng": 2.300642564362074,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.774482558501184,
+                            "lng": 2.300642564362074
+                        }
+                    ],
+                    "distance": 10652,
+                    "postalCode": "92330",
+                    "cc": "FR",
+                    "city": "Sceaux",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Domaine de Sceaux",
+                        "92330 Sceaux",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "50aaa49e4b90af0d42d5de11",
+                        "name": "Castle",
+                        "pluralName": "Castles",
+                        "shortName": "Castle",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4bd5d2176798ef3bac08648d",
+                "name": "Ambassade d'Indonésie / Indonesian Embassy",
+                "contact": {},
+                "location": {
+                    "address": "49 rue Cortambert",
+                    "lat": 48.86028393228379,
+                    "lng": 2.2787449426753215,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.86028393228379,
+                            "lng": 2.2787449426753215
+                        }
+                    ],
+                    "distance": 5169,
+                    "postalCode": "75016",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "49 rue Cortambert",
+                        "75016 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12c951735",
+                        "name": "Embassy / Consulate",
+                        "pluralName": "Embassies / Consulates",
+                        "shortName": "Embassy",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/embassy_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4db873f00437609120ec0416",
+                "name": "Mairie d'Ivry-sur-Seine",
+                "contact": {},
+                "location": {
+                    "address": "Esplanade Georges Marrane",
+                    "lat": 48.81220981597487,
+                    "lng": 2.387118122646439,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.81220981597487,
+                            "lng": 2.387118122646439
+                        }
+                    ],
+                    "distance": 6477,
+                    "postalCode": "94200",
+                    "cc": "FR",
+                    "city": "Ivry-sur-Seine",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Esplanade Georges Marrane",
+                        "94200 Ivry-sur-Seine",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4b5adb0df964a52091d728e3",
+                "name": "Mairie du 10e arrondissement",
+                "contact": {},
+                "location": {
+                    "address": "72 rue du Faubourg Saint-Martin",
+                    "lat": 48.87020674346194,
+                    "lng": 2.357803725166208,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.87020674346194,
+                            "lng": 2.357803725166208
+                        }
+                    ],
+                    "distance": 887,
+                    "postalCode": "75010",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "72 rue du Faubourg Saint-Martin",
+                        "75010 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d129941735",
+                        "name": "City Hall",
+                        "pluralName": "City Halls",
+                        "shortName": "City Hall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/cityhall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            },
+            {
+                "id": "4adcda09f964a5200c3421e3",
+                "name": "Jardin des Plantes",
+                "contact": {},
+                "location": {
+                    "address": "Place Valhubert",
+                    "crossStreet": "Rue Buffon",
+                    "lat": 48.84355975409625,
+                    "lng": 2.3594839105498977,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 48.84355975409625,
+                            "lng": 2.3594839105498977
+                        }
+                    ],
+                    "distance": 2476,
+                    "postalCode": "75005",
+                    "cc": "FR",
+                    "city": "Paris",
+                    "state": "Île-de-France",
+                    "country": "France",
+                    "formattedAddress": [
+                        "Place Valhubert (Rue Buffon)",
+                        "75005 Paris",
+                        "France"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a22",
+                        "name": "Botanical Garden",
+                        "pluralName": "Botanical Gardens",
+                        "shortName": "Botanical Garden",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "stats": {
+                    "tipCount": 0,
+                    "usersCount": 0,
+                    "checkinsCount": 0,
+                    "visitsCount": 0
+                },
+                "beenHere": {
+                    "count": 0,
+                    "lastCheckinExpiredAt": 0,
+                    "marked": false,
+                    "unconfirmedCount": 0
+                },
+                "hereNow": {
+                    "count": 0,
+                    "summary": "Nobody here",
+                    "groups": []
+                },
+                "referralId": "v-1614452228",
+                "venueChains": [],
+                "hasPerk": false
+            }
+        ],
+        "confident": false
+    }
+}
