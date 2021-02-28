@@ -1,0 +1,1907 @@
+{
+    "summary": {
+        "queryType": "NEARBY",
+        "queryTime": 122,
+        "numResults": 25,
+        "offset": 0,
+        "totalResults": 2713,
+        "fuzzyLevel": 1,
+        "geoBias": {
+            "lat": 51.5072,
+            "lon": -0.1275
+        }
+    },
+    "results": [
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU3NzEzOTahY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.978225708,
+            "dist": 21.775635555589382,
+            "info": "search:ta:826009035771396-GB",
+            "poi": {
+                "name": "Statue of King Charles I",
+                "categorySet": [
+                    {
+                        "id": 7376013
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "statue"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "statue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5BL",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Strand, London, SW1Y 5BL",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50734,
+                "lon": -0.12772
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50824,
+                    "lon": -0.12916
+                },
+                "btmRightPoint": {
+                    "lat": 51.50644,
+                    "lon": -0.12628
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50735,
+                        "lon": -0.12801
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0ZDUzZDczNWE2NDU2MGZjYTFiM2IzM2E=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU4NDk4MTGhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9441223145,
+            "dist": 55.87740800931819,
+            "info": "search:ta:826009035849811-GB",
+            "poi": {
+                "name": "Trafalgar Square Lions",
+                "categorySet": [
+                    {
+                        "id": 7376013
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "statue"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "statue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Strand, London, SW1Y 5AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50764,
+                "lon": -0.12789
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50854,
+                    "lon": -0.12933
+                },
+                "btmRightPoint": {
+                    "lat": 51.50674,
+                    "lon": -0.12645
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50755,
+                        "lon": -0.1279
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo1MGFhNmU2MGU0YjA3ODU4NTE1N2JiYjU=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU3NDUwMDKhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9382781982,
+            "dist": 61.71863270957292,
+            "info": "search:ta:826009035745002-GB",
+            "poi": {
+                "name": "Trafalgar Studios",
+                "phone": "+44 844 871 7627",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "url": "trafalgarentertainment.com",
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "14",
+                "streetName": "Whitehall",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2BS",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "14 Whitehall, Westminster, London, SW1A 2BS",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50665,
+                "lon": -0.12738
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50755,
+                    "lon": -0.12882
+                },
+                "btmRightPoint": {
+                    "lat": 51.50575,
+                    "lon": -0.12594
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50673,
+                        "lon": -0.12734
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWM1MThlN2Y5NjRhNTIwNjFhYjIwZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMTMyNDk2MjOhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9319839478,
+            "dist": 68.01374563258089,
+            "info": "search:ta:826009013249623-GB",
+            "poi": {
+                "name": "Nelson's Column",
+                "categorySet": [
+                    {
+                        "id": 7376003
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "monument"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "monument"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Charing Cross",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Charing Cross, Strand, London, SW1Y 5AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50775,
+                "lon": -0.12793
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50865,
+                    "lon": -0.12937
+                },
+                "btmRightPoint": {
+                    "lat": 51.50685,
+                    "lon": -0.12649
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50758,
+                        "lon": -0.1278
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzA0NzkzNjShY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9319839478,
+            "dist": 68.01374563258089,
+            "info": "search:ta:826009030479364-GB",
+            "poi": {
+                "name": "Trafalgar Square",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "url": "www.london.gov.uk/priorities/art-culture/trafalgar-square",
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Charing Cross",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2DR",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Charing Cross, Strand, London, SW1A 2DR",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50775,
+                "lon": -0.12793
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50865,
+                    "lon": -0.12937
+                },
+                "btmRightPoint": {
+                    "lat": 51.50685,
+                    "lon": -0.12649
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50758,
+                        "lon": -0.1278
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMjkxNzg4MzChY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9212799072,
+            "dist": 78.71783938831271,
+            "info": "search:ta:826009029178830-GB",
+            "poi": {
+                "name": "Small Car Big City",
+                "phone": "+44 20 7839 6737",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "url": "www.smallcarbigcity.com",
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "8",
+                "streetName": "Northumberland Avenue",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2N",
+                "extendedPostalCode": "WC2N 5BY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "8 Northumberland Avenue, Strand, London, WC2N 5BY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50702,
+                "lon": -0.1264
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50792,
+                    "lon": -0.12784
+                },
+                "btmRightPoint": {
+                    "lat": 51.50612,
+                    "lon": -0.12496
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50723,
+                        "lon": -0.1263
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwNDA3MzI4MDGhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9197006226,
+            "dist": 80.30239616541095,
+            "info": "search:ta:826009040732801-GB",
+            "poi": {
+                "name": "Major General Sir Henry Havelock Statue",
+                "categorySet": [
+                    {
+                        "id": 7376013
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "statue"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "statue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Strand, London, SW1Y 5AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50792,
+                "lon": -0.12741
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50882,
+                    "lon": -0.12885
+                },
+                "btmRightPoint": {
+                    "lat": 51.50702,
+                    "lon": -0.12597
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50793,
+                        "lon": -0.12715
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo1MWZjY2U1MjQ5OGVmYjc1YzI1ODEwOWM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMTMyNDY1ODehY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.9124221802,
+            "dist": 87.58064287326668,
+            "info": "search:ta:826009013246587-GB",
+            "poi": {
+                "name": "Admiralty Arch",
+                "categorySet": [
+                    {
+                        "id": 7376012
+                    }
+                ],
+                "categories": [
+                    "arch",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "arch"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "The Mall",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2WH",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "The Mall, Westminster, London, SW1A 2WH",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50695,
+                "lon": -0.1287
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50785,
+                    "lon": -0.13014
+                },
+                "btmRightPoint": {
+                    "lat": 51.50605,
+                    "lon": -0.12726
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50684,
+                        "lon": -0.12844
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMDMxODQxNTWhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8733978271,
+            "dist": 126.60066373394191,
+            "info": "search:ta:826009003184155-GB",
+            "poi": {
+                "name": "London's Roman Baths",
+                "categorySet": [
+                    {
+                        "id": 9362004
+                    }
+                ],
+                "categories": [
+                    "historic site",
+                    "park recreation area"
+                ],
+                "classifications": [
+                    {
+                        "code": "PARK_RECREATION_AREA",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "historic site"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park recreation area"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "5",
+                "streetName": "Strand",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2R",
+                "extendedPostalCode": "WC2R 0RH",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "5 Strand, Strand, London, WC2R 0RH",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50791,
+                "lon": -0.12607
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50881,
+                    "lon": -0.12751
+                },
+                "btmRightPoint": {
+                    "lat": 51.50701,
+                    "lon": -0.12463
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50809,
+                        "lon": -0.12631
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU4MTY1NTKhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8709259033,
+            "dist": 129.0772423828277,
+            "info": "search:ta:826009035816552-GB",
+            "poi": {
+                "name": "George IV Statue",
+                "categorySet": [
+                    {
+                        "id": 7376013
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "statue"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "statue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Strand, London, SW1Y 5AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50836,
+                "lon": -0.12757
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50926,
+                    "lon": -0.12901
+                },
+                "btmRightPoint": {
+                    "lat": 51.50746,
+                    "lon": -0.12613
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50838,
+                        "lon": -0.1273
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YjQ3MjAyOWY5NjRhNTIwYWEyYjI2ZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU2MzkwMDChY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8643264771,
+            "dist": 135.67546945709884,
+            "info": "search:ta:826009035639000-GB",
+            "poi": {
+                "name": "The Fourth Plinth",
+                "categorySet": [
+                    {
+                        "id": 7376013
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "statue"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "statue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5BJ",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Westminster, London, SW1Y 5BJ",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50816,
+                "lon": -0.12871
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50906,
+                    "lon": -0.13015
+                },
+                "btmRightPoint": {
+                    "lat": 51.50726,
+                    "lon": -0.12727
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50813,
+                        "lon": -0.12895
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWNlNDc1NWY5NjRhNTIwOTRjZjIwZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMDMxMTQ1ODehY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.851890564,
+            "dist": 148.11061668273993,
+            "info": "search:ta:826009003114587-GB",
+            "poi": {
+                "name": "The Mall",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "The Mall",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2WH",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "The Mall, Westminster, London, SW1A 2WH",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50647,
+                "lon": -0.12929
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50737,
+                    "lon": -0.13073
+                },
+                "btmRightPoint": {
+                    "lat": 51.50557,
+                    "lon": -0.12785
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50648,
+                        "lon": -0.12929
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMDI3OTEyODGhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8342514038,
+            "dist": 165.75147310824667,
+            "info": "search:ta:826009002791281-GB",
+            "poi": {
+                "name": "Old Admiralty",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "26",
+                "streetName": "Whitehall",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "26 Whitehall, Westminster, London, SW1A 2AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50571,
+                "lon": -0.12757
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50661,
+                    "lon": -0.12901
+                },
+                "btmRightPoint": {
+                    "lat": 51.50481,
+                    "lon": -0.12613
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50581,
+                        "lon": -0.12694
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzA2NzE5MjWhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8312606812,
+            "dist": 168.7424825440763,
+            "info": "search:ta:826009030671925-GB",
+            "poi": {
+                "name": "The National Gallery",
+                "phone": "+44 20 7747 2885",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "url": "www.nationalgallery.org.uk",
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Westminster, London, SW1Y 5AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50862,
+                "lon": -0.12836
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50952,
+                    "lon": -0.1298
+                },
+                "btmRightPoint": {
+                    "lat": 51.50772,
+                    "lon": -0.12692
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50841,
+                        "lon": -0.1283
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWM1MThlZWY5NjRhNTIwZmZhYzIwZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMDI5NjM2MzChY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8154373169,
+            "dist": 184.56639199109392,
+            "info": "search:ta:826009002963630-GB",
+            "poi": {
+                "name": "The Benjamin Franklin House",
+                "phone": "+44 20 7925 1405",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "url": "www.benjaminfranklinhouse.org",
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "36",
+                "streetName": "Craven Street",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2N",
+                "extendedPostalCode": "WC2N 5NG",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "36 Craven Street, Strand, London, WC2N 5NG",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50762,
+                "lon": -0.12492
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50852,
+                    "lon": -0.12636
+                },
+                "btmRightPoint": {
+                    "lat": 51.50672,
+                    "lon": -0.12348
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50758,
+                        "lon": -0.12504
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU2MTU0MDihY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.8145294189,
+            "dist": 185.47191338624594,
+            "info": "search:ta:826009035615408-GB",
+            "poi": {
+                "name": "St Martin-In-The-Fields",
+                "phone": "+44 20 7766 1100",
+                "categorySet": [
+                    {
+                        "id": 7339002
+                    }
+                ],
+                "url": "www.smitf.org",
+                "categories": [
+                    "church",
+                    "place of worship"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "church"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "5",
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2N",
+                "extendedPostalCode": "WC2N 5DX",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "5 Trafalgar Square, Westminster, London, WC2N 5DX",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50875,
+                "lon": -0.12651
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.51049,
+                    "lon": -0.1293
+                },
+                "btmRightPoint": {
+                    "lat": 51.50701,
+                    "lon": -0.12372
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50773,
+                        "lon": -0.12877
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YjlhNGViMGY5NjRhNTIwMmJhYjM1ZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMjkwMTc0NDWhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.801864624,
+            "dist": 198.13755705125703,
+            "info": "search:ta:826009029017445-GB",
+            "poi": {
+                "name": "The Original London Sightseeing Tour",
+                "phone": "+44 20 7389 5040",
+                "categorySet": [
+                    {
+                        "id": 7376009
+                    }
+                ],
+                "url": "www.theoriginaltour.com",
+                "categories": [
+                    "important tourist attraction",
+                    "tower"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "tower"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "17-19",
+                "streetName": "Cockspur Street",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5BG",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "17-19 Cockspur Street, Westminster, London, SW1Y 5BG",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50801,
+                "lon": -0.13005
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50891,
+                    "lon": -0.13149
+                },
+                "btmRightPoint": {
+                    "lat": 51.50711,
+                    "lon": -0.12861
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50765,
+                        "lon": -0.13037
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0ZGFiNWNiZmY3YjE0NWIzNzAyNTMwMDI=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDgwMDAwMTQzNTKhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7953338623,
+            "dist": 204.66769794704356,
+            "info": "search:ta:826008000014352-GB",
+            "poi": {
+                "name": "Eleanor Cross at Charing Cross Station",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Strand",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2N",
+                "extendedPostalCode": "WC2N 5HX",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Strand, Strand, London, WC2N 5HX",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50843,
+                "lon": -0.1253
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50933,
+                    "lon": -0.12674
+                },
+                "btmRightPoint": {
+                    "lat": 51.50753,
+                    "lon": -0.12386
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50855,
+                        "lon": -0.12543
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzYwNzQ1MTWhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7732315063,
+            "dist": 226.77175412034347,
+            "info": "search:ta:826009036074515-GB",
+            "poi": {
+                "name": "National Police Memorial",
+                "categorySet": [
+                    {
+                        "id": 9362007
+                    }
+                ],
+                "categories": [
+                    "memorial",
+                    "park recreation area"
+                ],
+                "classifications": [
+                    {
+                        "code": "PARK_RECREATION_AREA",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "memorial"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park recreation area"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Horse Guards Road",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Horse Guards Road, Westminster, London, SW1Y 5",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50586,
+                "lon": -0.12997
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50676,
+                    "lon": -0.13141
+                },
+                "btmRightPoint": {
+                    "lat": 51.50496,
+                    "lon": -0.12853
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50558,
+                        "lon": -0.13029
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo1MTZiZTBlZGU0YjA0MTZlMzk1N2ZiOGM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU4MTQwNjahY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7541046143,
+            "dist": 245.89466940716224,
+            "info": "search:ta:826009035814066-GB",
+            "poi": {
+                "name": "Edith Cavell Statue",
+                "categorySet": [
+                    {
+                        "id": 7376013
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "statue"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "statue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Saint Martin's Place",
+                "municipalitySubdivision": "Covent Garden",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2H",
+                "extendedPostalCode": "WC2H 0HH",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Saint Martin's Place, Covent Garden, London, WC2H 0HH",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.5094,
+                "lon": -0.12714
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.5103,
+                    "lon": -0.12858
+                },
+                "btmRightPoint": {
+                    "lat": 51.5085,
+                    "lon": -0.1257
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50949,
+                        "lon": -0.12714
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0ZTNmYmViNDdkOGIwZTk2MTA4NjkxM2E=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMzU2NTA4NTahY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7509002686,
+            "dist": 249.10332112832097,
+            "info": "search:ta:826009035650856-GB",
+            "poi": {
+                "name": "Charing Cross Theatre",
+                "phone": "+44 20 7907 7075",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "The Arches Shopping",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2N",
+                "extendedPostalCode": "WC2N 6",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "The Arches Shopping, Strand, London, WC2N 6",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50797,
+                "lon": -0.12412
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50887,
+                    "lon": -0.12556
+                },
+                "btmRightPoint": {
+                    "lat": 51.50707,
+                    "lon": -0.12268
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50804,
+                        "lon": -0.12423
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0ZTA2NGIzYTFmNmUyMTEwMzM4NWRmMTg=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwNDA3Njk2MDGhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7480239868,
+            "dist": 251.9761879371248,
+            "info": "search:ta:826009040769601-GB",
+            "poi": {
+                "name": "Institute of Contemporary Arts",
+                "phone": "+44 20 7930 3647",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "url": "https://www.ica.art",
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "The Mall",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2WH",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "The Mall, Westminster, London, SW1A 2WH",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50627,
+                "lon": -0.13082
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50717,
+                    "lon": -0.13226
+                },
+                "btmRightPoint": {
+                    "lat": 51.50537,
+                    "lon": -0.12938
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50596,
+                        "lon": -0.13052
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWM1MThiOWY5NjRhNTIwYjZhMTIwZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDIwMDAzOTQwOTihY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.743812561,
+            "dist": 256.18365651973346,
+            "info": "search:ta:826002000394098-GB",
+            "poi": {
+                "name": "London Brass Rubbing Centre",
+                "phone": "+44 20 7930 9306",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "url": "www.smitf.org",
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Trafalgar Square",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1Y",
+                "extendedPostalCode": "SW1Y 5AY",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Trafalgar Square, Strand, London, SW1Y 5AY",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50911,
+                "lon": -0.12543
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.51032,
+                    "lon": -0.12737
+                },
+                "btmRightPoint": {
+                    "lat": 51.5079,
+                    "lon": -0.12349
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50858,
+                        "lon": -0.12717
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMDMwNDYyMjOhY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7433624268,
+            "dist": 256.639468488985,
+            "info": "search:ta:826009003046223-GB",
+            "poi": {
+                "name": "Heaven",
+                "phone": "+44 844 847 2351",
+                "categorySet": [
+                    {
+                        "id": 7318002
+                    }
+                ],
+                "url": "www.heaven-live.co.uk",
+                "categories": [
+                    "concert hall",
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "concert hall"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Villiers Street",
+                "municipalitySubdivision": "Strand",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "WC2N",
+                "extendedPostalCode": "WC2N 6NL",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Villiers Street, Strand, London, WC2N 6NL",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50798,
+                "lon": -0.12401
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50888,
+                    "lon": -0.12545
+                },
+                "btmRightPoint": {
+                    "lat": 51.50708,
+                    "lon": -0.12257
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.5081,
+                        "lon": -0.12385
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK84MjYwMDkwMDMxNjU2MTihY6NHQlKhdqdVbmlmaWVk",
+            "score": 99.7329940796,
+            "dist": 267.0030991063631,
+            "info": "search:ta:826009003165618-GB",
+            "poi": {
+                "name": "House Guards Parade",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Whitehall",
+                "municipalitySubdivision": "Westminster",
+                "municipality": "London",
+                "countrySecondarySubdivision": "London",
+                "countrySubdivision": "ENG",
+                "countrySubdivisionName": "England",
+                "postalCode": "SW1A",
+                "extendedPostalCode": "SW1A 2AX",
+                "countryCode": "GB",
+                "country": "United Kingdom",
+                "countryCodeISO3": "GBR",
+                "freeformAddress": "Whitehall, Westminster, London, SW1A 2AX",
+                "localName": "London"
+            },
+            "position": {
+                "lat": 51.50483,
+                "lon": -0.12688
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 51.50573,
+                    "lon": -0.12832
+                },
+                "btmRightPoint": {
+                    "lat": 51.50393,
+                    "lon": -0.12544
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 51.50489,
+                        "lon": -0.12654
+                    }
+                }
+            ]
+        }
+    ]
+}

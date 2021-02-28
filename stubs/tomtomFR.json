@@ -1,0 +1,1803 @@
+{
+    "summary": {
+        "queryType": "NEARBY",
+        "queryTime": 130,
+        "numResults": 25,
+        "offset": 0,
+        "totalResults": 2247,
+        "fuzzyLevel": 1,
+        "geoBias": {
+            "lat": 48.8566,
+            "lon": 2.3522
+        }
+    },
+    "results": [
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTAwNjU0MTWhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.9875717163,
+            "dist": 12.426980065861187,
+            "info": "search:ta:250009010065415-FR",
+            "poi": {
+                "name": "Hôtel de Ville",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Place de l'Hôtel de Ville-Esplanade de la Libération",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Place de l'Hôtel de Ville-Esplanade de la Libération, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85649,
+                "lon": 2.35217
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85739,
+                    "lon": 2.3508
+                },
+                "btmRightPoint": {
+                    "lat": 48.85559,
+                    "lon": 2.35354
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85654,
+                        "lon": 2.35191
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMzY3NTU3NjOhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.8689804077,
+            "dist": 131.02196078596424,
+            "info": "search:ta:250009036755763-FR",
+            "poi": {
+                "name": "Parc Rives de Seine",
+                "categorySet": [
+                    {
+                        "id": 9362008
+                    }
+                ],
+                "url": "www.paris.fr/rivesdeseine",
+                "categories": [
+                    "park",
+                    "park recreation area"
+                ],
+                "classifications": [
+                    {
+                        "code": "PARK_RECREATION_AREA",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park recreation area"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Voie Georges Pompidou",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Voie Georges Pompidou, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85553,
+                "lon": 2.35145
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85661,
+                    "lon": 2.34895
+                },
+                "btmRightPoint": {
+                    "lat": 48.85415,
+                    "lon": 2.35498
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85552,
+                        "lon": 2.35143
+                    }
+                }
+            ],
+            "dataSources": {
+                "geometry": {
+                    "id": "d3dcd369-19d1-465e-8226-7321d1d6671e"
+                },
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo1OGUwZjE4ZjU2MWRlZDdhYmNiYmJkMDE=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTMyODg4NjShY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7951049805,
+            "dist": 204.8917714826544,
+            "info": "search:ta:250009013288864-FR",
+            "poi": {
+                "name": "Église Saint-Gervais Saint-Protais",
+                "categorySet": [
+                    {
+                        "id": 7339002
+                    }
+                ],
+                "categories": [
+                    "church",
+                    "place of worship"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "church"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Place Saint-Gervais",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Place Saint-Gervais, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85553,
+                "lon": 2.35448
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85643,
+                    "lon": 2.35311
+                },
+                "btmRightPoint": {
+                    "lat": 48.85463,
+                    "lon": 2.35585
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85584,
+                        "lon": 2.3544
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDk0NzAzMTihY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.79271698,
+            "dist": 207.28122760195177,
+            "info": "search:ta:250009009470318-FR",
+            "poi": {
+                "name": "Église Saint Gervais Saint Protais",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Place Saint-Gervais",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Place Saint-Gervais, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85553,
+                "lon": 2.35452
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85643,
+                    "lon": 2.35315
+                },
+                "btmRightPoint": {
+                    "lat": 48.85463,
+                    "lon": 2.35589
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85585,
+                        "lon": 2.35445
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwNDAwODQ0ODKhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7832565308,
+            "dist": 216.7415107571666,
+            "info": "search:ta:250009040084482-FR",
+            "poi": {
+                "name": "Pont d'Arcole",
+                "categorySet": [
+                    {
+                        "id": 7376010
+                    }
+                ],
+                "categories": [
+                    "bridge",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bridge"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Pont d'Arcole",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Pont d'Arcole, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85511,
+                "lon": 2.35029
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85601,
+                    "lon": 2.34892
+                },
+                "btmRightPoint": {
+                    "lat": 48.85421,
+                    "lon": 2.35166
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85511,
+                        "lon": 2.35029
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwNDEwNjI2NDShY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7597961426,
+            "dist": 240.20154435151935,
+            "info": "search:ta:250009041062644-FR",
+            "poi": {
+                "name": "Église Saint-Gervais Saint-Protais",
+                "categorySet": [
+                    {
+                        "id": 7339002
+                    }
+                ],
+                "categories": [
+                    "church",
+                    "place of worship"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "church"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "11",
+                "streetName": "Rue des Barres",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "11 Rue des Barres, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.8554,
+                "lon": 2.35493
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.8563,
+                    "lon": 2.35356
+                },
+                "btmRightPoint": {
+                    "lat": 48.8545,
+                    "lon": 2.3563
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85531,
+                        "lon": 2.35526
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMzY4NTIxMDWhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7464370728,
+            "dist": 253.56277253348537,
+            "info": "search:ta:250009036852105-FR",
+            "poi": {
+                "name": "Théâtre du Renard",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "12",
+                "streetName": "Rue du Renard",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "12 Rue du Renard, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85888,
+                "lon": 2.35214
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85978,
+                    "lon": 2.35077
+                },
+                "btmRightPoint": {
+                    "lat": 48.85798,
+                    "lon": 2.35351
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85878,
+                        "lon": 2.35213
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWRjZGExYWY5NjRhNTIwZDgzODIxZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTM0MDEzNjmhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7269287109,
+            "dist": 273.0714498393607,
+            "info": "search:ta:250009013401369-FR",
+            "poi": {
+                "name": "Temple Billettes",
+                "categorySet": [
+                    {
+                        "id": 7339005
+                    }
+                ],
+                "categories": [
+                    "place of worship",
+                    "temple"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "temple"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rue des Archives",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Rue des Archives, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85807,
+                "lon": 2.35519
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85897,
+                    "lon": 2.35382
+                },
+                "btmRightPoint": {
+                    "lat": 48.85717,
+                    "lon": 2.35656
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85818,
+                        "lon": 2.35493
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTM1NzI1MzehY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7133560181,
+            "dist": 286.6457271891224,
+            "info": "search:ta:250009013572537-FR",
+            "poi": {
+                "name": "Tour Saint-Jacques",
+                "categorySet": [
+                    {
+                        "id": 7376009
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction",
+                    "tower"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "tower"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rue de Rivoli",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Rue de Rivoli, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85803,
+                "lon": 2.34894
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85893,
+                    "lon": 2.34757
+                },
+                "btmRightPoint": {
+                    "lat": 48.85713,
+                    "lon": 2.35031
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85849,
+                        "lon": 2.34828
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMzY3MTUxMTOhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7108688354,
+            "dist": 289.1274979159588,
+            "info": "search:ta:250009036715113-FR",
+            "poi": {
+                "name": "Square De La Tour Saint-Jacques",
+                "categorySet": [
+                    {
+                        "id": 9362008
+                    }
+                ],
+                "url": "www.paris.fr",
+                "categories": [
+                    "park",
+                    "park recreation area"
+                ],
+                "classifications": [
+                    {
+                        "code": "PARK_RECREATION_AREA",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park recreation area"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "88",
+                "streetName": "Rue de Rivoli",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "88 Rue de Rivoli, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85788,
+                "lon": 2.34876
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85852,
+                    "lon": 2.34777
+                },
+                "btmRightPoint": {
+                    "lat": 48.85733,
+                    "lon": 2.34966
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85813,
+                        "lon": 2.34937
+                    }
+                }
+            ],
+            "dataSources": {
+                "geometry": {
+                    "id": "00004632-3000-3c00-0000-00005d4fc56b"
+                },
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0ZGJkMzM2YjZhMjNlMjk0YmE0MDVjZmE=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwNDAwODQ2NjKhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7010803223,
+            "dist": 298.91977021101786,
+            "info": "search:ta:250009040084662-FR",
+            "poi": {
+                "name": "Pont Notre-Dame",
+                "categorySet": [
+                    {
+                        "id": 7376010
+                    }
+                ],
+                "categories": [
+                    "bridge",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bridge"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Pont Notre-Dame",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Pont Notre-Dame, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.8557,
+                "lon": 2.34835
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.8566,
+                    "lon": 2.34698
+                },
+                "btmRightPoint": {
+                    "lat": 48.8548,
+                    "lon": 2.34972
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.8557,
+                        "lon": 2.34834
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTM1MzU1ODGhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.7005233765,
+            "dist": 299.4749150162192,
+            "info": "search:ta:250009013535581-FR",
+            "poi": {
+                "name": "Église Sainte-Merri",
+                "categorySet": [
+                    {
+                        "id": 7339002
+                    }
+                ],
+                "categories": [
+                    "church",
+                    "place of worship"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "church"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rue Saint-Martin",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Rue Saint-Martin, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85909,
+                "lon": 2.35064
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85999,
+                    "lon": 2.34927
+                },
+                "btmRightPoint": {
+                    "lat": 48.85819,
+                    "lon": 2.35201
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85916,
+                        "lon": 2.35036
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTAwNjA2ODGhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6859588623,
+            "dist": 314.04191019679814,
+            "info": "search:ta:250009010060681-FR",
+            "poi": {
+                "name": "Église Saint Merri",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "76",
+                "streetName": "Rue de la Verrerie",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "76 Rue de la Verrerie, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85921,
+                "lon": 2.35056
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.86011,
+                    "lon": 2.34919
+                },
+                "btmRightPoint": {
+                    "lat": 48.85831,
+                    "lon": 2.35193
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85894,
+                        "lon": 2.35037
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMTM2MjgzNTehY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6806182861,
+            "dist": 319.3816378878643,
+            "info": "search:ta:250009013628357-FR",
+            "poi": {
+                "name": "Synagogue",
+                "categorySet": [
+                    {
+                        "id": 7339004
+                    }
+                ],
+                "categories": [
+                    "place of worship",
+                    "synagogue"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "synagogue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "24",
+                "streetName": "Rue du Bourg Tibourg",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "24 Rue du Bourg Tibourg, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85745,
+                "lon": 2.35637
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85835,
+                    "lon": 2.355
+                },
+                "btmRightPoint": {
+                    "lat": 48.85655,
+                    "lon": 2.35774
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85748,
+                        "lon": 2.35629
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwNDA4OTQ1NzehY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6755752563,
+            "dist": 324.42693343849135,
+            "info": "search:ta:250009040894577-FR",
+            "poi": {
+                "name": "Fontaine Stravinski",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Place Igor Stravinsky",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Place Igor Stravinsky, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85948,
+                "lon": 2.35149
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.86038,
+                    "lon": 2.35012
+                },
+                "btmRightPoint": {
+                    "lat": 48.85858,
+                    "lon": 2.35286
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85941,
+                        "lon": 2.3517
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMzY2NTg4NTChY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6670379639,
+            "dist": 332.96228593068713,
+            "info": "search:ta:250009036658850-FR",
+            "poi": {
+                "name": "Théâtre De La Ville",
+                "phone": "+33 1 42 74 22 77",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "url": "www.theatredelaville-paris.com",
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "2",
+                "streetName": "Place du Châtelet",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "2 Place du Châtelet, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85734,
+                "lon": 2.34779
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85824,
+                    "lon": 2.34642
+                },
+                "btmRightPoint": {
+                    "lat": 48.85644,
+                    "lon": 2.34916
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85739,
+                        "lon": 2.34759
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWRjZGExNWY5NjRhNTIwYTEzNzIxZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDQ1NjcyMzGhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6656417847,
+            "dist": 334.3562950039724,
+            "info": "search:ta:250009004567231-FR",
+            "poi": {
+                "name": "Mémorial de la Shoah",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "17",
+                "streetName": "Rue Geoffroy l'Asnier",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "17 Rue Geoffroy l'Asnier, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85491,
+                "lon": 2.35598
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85581,
+                    "lon": 2.35461
+                },
+                "btmRightPoint": {
+                    "lat": 48.85401,
+                    "lon": 2.35735
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85474,
+                        "lon": 2.35633
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwNDAwODQzMzKhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6656341553,
+            "dist": 334.36397463089054,
+            "info": "search:ta:250009040084332-FR",
+            "poi": {
+                "name": "Pont Louis Philippe",
+                "categorySet": [
+                    {
+                        "id": 7376010
+                    }
+                ],
+                "categories": [
+                    "bridge",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "bridge"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Pont Louis Philippe",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Pont Louis Philippe, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85407,
+                "lon": 2.35467
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85497,
+                    "lon": 2.3533
+                },
+                "btmRightPoint": {
+                    "lat": 48.85317,
+                    "lon": 2.35604
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85408,
+                        "lon": 2.35467
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDQ0OTM3NDOhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6510314941,
+            "dist": 348.97232100410355,
+            "info": "search:ta:250009004493743-FR",
+            "poi": {
+                "name": "Ancien Quartier du Chapitre",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rue Chanoinesse",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Rue Chanoinesse, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85349,
+                "lon": 2.35156
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85439,
+                    "lon": 2.35019
+                },
+                "btmRightPoint": {
+                    "lat": 48.85259,
+                    "lon": 2.35293
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85339,
+                        "lon": 2.35123
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMzY2NDc1OTChY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6349716187,
+            "dist": 365.02996565454015,
+            "info": "search:ta:250009036647590-FR",
+            "poi": {
+                "name": "Essaïon Théâtre",
+                "phone": "+33 1 42 78 46 42",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "url": "essaion-theatre.com",
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "6",
+                "streetName": "Rue Pierre au Lard",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "6 Rue Pierre au Lard, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85987,
+                "lon": 2.35264
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.86077,
+                    "lon": 2.35127
+                },
+                "btmRightPoint": {
+                    "lat": 48.85897,
+                    "lon": 2.35401
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85974,
+                        "lon": 2.35308
+                    }
+                }
+            ],
+            "dataSources": {
+                "poiDetails": [
+                    {
+                        "id": "Rm91cnNxdWFyZTo0YWRjZGExOWY5NjRhNTIwYjgzODIxZTM=",
+                        "sourceName": "Foursquare"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDQ1MzYxOTShY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6330566406,
+            "dist": 366.94122906170014,
+            "info": "search:ta:250009004536194-FR",
+            "poi": {
+                "name": "L'Île de la Cité",
+                "phone": "+33 1 49 52 42 63",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "url": "www.parisinfo.com",
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rue de la Cité",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Rue de la Cité, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85469,
+                "lon": 2.34811
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85559,
+                    "lon": 2.34674
+                },
+                "btmRightPoint": {
+                    "lat": 48.85379,
+                    "lon": 2.34948
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85466,
+                        "lon": 2.34774
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDM3MjQzNjWhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6290206909,
+            "dist": 370.97634702916304,
+            "info": "search:ta:250009003724365-FR",
+            "poi": {
+                "name": "Le Point Virgule",
+                "phone": "+33 1 42 78 67 03",
+                "categorySet": [
+                    {
+                        "id": 7318
+                    }
+                ],
+                "url": "www.lepointvirgule.com",
+                "categories": [
+                    "theater"
+                ],
+                "classifications": [
+                    {
+                        "code": "THEATER",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "theater"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "7",
+                "streetName": "Rue Sainte-Croix de la Bretonnerie",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "7 Rue Sainte-Croix de la Bretonnerie, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.8579,
+                "lon": 2.35687
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.8588,
+                    "lon": 2.3555
+                },
+                "btmRightPoint": {
+                    "lat": 48.857,
+                    "lon": 2.35824
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85793,
+                        "lon": 2.35691
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDQzNTA1MzGhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6163253784,
+            "dist": 383.67668963567667,
+            "info": "search:ta:250009004350531-FR",
+            "poi": {
+                "name": "Place du Châtelet",
+                "categorySet": [
+                    {
+                        "id": 7376
+                    }
+                ],
+                "categories": [
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Place du Châtelet",
+                "municipalitySubdivision": "1er Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75001",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Place du Châtelet, 75001 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85762,
+                "lon": 2.34719
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85852,
+                    "lon": 2.34582
+                },
+                "btmRightPoint": {
+                    "lat": 48.85672,
+                    "lon": 2.34856
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85766,
+                        "lon": 2.34704
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMzQyNjc3ODehY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.6084976196,
+            "dist": 391.50281422674897,
+            "info": "search:ta:250009034267787-FR",
+            "poi": {
+                "name": "Prizoners Escape Game",
+                "phone": "+33 4 94 45 31 74",
+                "categorySet": [
+                    {
+                        "id": 9902004
+                    }
+                ],
+                "url": "www.prizoners.com",
+                "categories": [
+                    "amusement park",
+                    "amusement place"
+                ],
+                "classifications": [
+                    {
+                        "code": "AMUSEMENT_PARK",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "amusement park"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "amusement place"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Rue Quincampoix",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Rue Quincampoix, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85976,
+                "lon": 2.34984
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.86066,
+                    "lon": 2.34847
+                },
+                "btmRightPoint": {
+                    "lat": 48.85886,
+                    "lon": 2.35121
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85979,
+                        "lon": 2.34991
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8yNTAwMDkwMDk2MjI3MjKhY6NGUkGhdqdVbmlmaWVk",
+            "score": 99.5972976685,
+            "dist": 402.6996811762646,
+            "info": "search:ta:250009009622722-FR",
+            "poi": {
+                "name": "Hôtel-Dieu de Paris",
+                "categorySet": [
+                    {
+                        "id": 7376002
+                    }
+                ],
+                "categories": [
+                    "building",
+                    "important tourist attraction"
+                ],
+                "classifications": [
+                    {
+                        "code": "IMPORTANT_TOURIST_ATTRACTION",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "important tourist attraction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "building"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Place du Parvis Notre-Dame",
+                "municipalitySubdivision": "4th Arrondissement",
+                "municipality": "Paris",
+                "countrySecondarySubdivision": "Paris",
+                "countrySubdivision": "Île-de-France",
+                "postalCode": "75004",
+                "countryCode": "FR",
+                "country": "France",
+                "countryCodeISO3": "FRA",
+                "freeformAddress": "Place du Parvis Notre-Dame, 75004 Paris",
+                "localName": "Paris"
+            },
+            "position": {
+                "lat": 48.85398,
+                "lon": 2.3484
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 48.85488,
+                    "lon": 2.34703
+                },
+                "btmRightPoint": {
+                    "lat": 48.85308,
+                    "lon": 2.34977
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 48.85356,
+                        "lon": 2.34914
+                    }
+                }
+            ]
+        }
+    ]
+}
